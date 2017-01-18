@@ -1,0 +1,17 @@
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\bin\Debug\Snake_New.exe.config
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.csprojResolveAssemblyReference.cache
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.Properties.Resources.resources
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.csproj.GenerateResource.Cache
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\bin\Debug\Snake_New.exe
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\bin\Debug\Snake_New.pdb
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.exe
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.pdb
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.SettingForm.resources
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.MenuForm.resources
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.HelpForm.resources
+c:\users\kkli\documents\visual studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.GameForm.resources
+C:\Users\kkli\Documents\Visual Studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.GameOverForm.resources
+C:\Users\kkli\Documents\Visual Studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.ConfirmForm.resources
+C:\Users\kkli\Documents\Visual Studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.ChooseHurdleForm.resources
+C:\Users\kkli\Documents\Visual Studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.RecordForm.resources
+C:\Users\kkli\Documents\Visual Studio 2015\Projects\Snake_New\Snake_New\obj\Debug\Snake_New.CustomForm.resources

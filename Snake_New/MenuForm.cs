@@ -52,5 +52,17 @@ namespace Snake_New {
             cf.Show();
             this.Hide();
         }
+
+        private void button42_Click(object sender, EventArgs e) {
+            MessageBox.Show("我是柱子  (╰_╯)#"); 
+        }
+
+        private void button23_Click(object sender, EventArgs e) {
+            MessageBox.Show("我是苹果  ╮(╯▽╰)╭");
+        }
+
+        private void button22_Click(object sender, EventArgs e) {
+            MessageBox.Show("我是蛇啦   ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄");
+        }
     }
 }
